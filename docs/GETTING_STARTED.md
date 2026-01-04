@@ -43,8 +43,8 @@ node --version
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/my-know.git
-cd my-know
+git clone https://github.com/huifer/Claude-Code-KnowCraft.git
+cd Claude-Code-KnowCraft
 
 # 验证文件结构
 ls -la

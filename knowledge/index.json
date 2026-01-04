@@ -1,87 +1,16 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-04T10:59:00Z",
+  "lastUpdated": "2026-01-04T00:00:00Z",
   "stats": {
-    "totalItems": 5,
-    "totalTags": 12,
-    "totalLinks": 3
+    "totalItems": 0,
+    "totalTags": 0,
+    "totalLinks": 0
   },
-  "items": [
-    {
-      "id": "2025-01-04-104800",
-      "title": "个人知识系统测试条目",
-      "type": "learning-note",
-      "category": "learning",
-      "tags": ["test", "knowledge-system", "setup"],
-      "created": "2025-01-04T10:48:00Z",
-      "modified": "2025-01-04T10:48:00Z",
-      "version": 1,
-      "filePath": "/knowledge/items/2025/01-January/2025-01-04-104800.md",
-      "links": 0,
-      "backlinks": 0,
-      "wordCount": 156
-    },
-    {
-      "id": "2026-01-04-105644",
-      "title": "React 基础概念",
-      "type": "learning-note",
-      "category": "learning",
-      "tags": ["react", "frontend", "components"],
-      "created": "2026-01-04T10:56:44Z",
-      "modified": "2026-01-04T11:00:00Z",
-      "version": 1,
-      "filePath": "/knowledge/items/2026/01-January/2026-01-04-105644.md",
-      "links": 1,
-      "backlinks": 1,
-      "wordCount": 180
-    },
-    {
-      "id": "2026-01-04-105730",
-      "title": "JavaScript 异步编程",
-      "type": "learning-note",
-      "category": "learning",
-      "tags": ["javascript", "async", "promise"],
-      "created": "2026-01-04T10:57:30Z",
-      "modified": "2026-01-04T10:57:30Z",
-      "version": 1,
-      "filePath": "/knowledge/items/2026/01-January/2026-01-04-105730.md",
-      "links": 0,
-      "backlinks": 0,
-      "wordCount": 195
-    },
-    {
-      "id": "2026-01-04-105815",
-      "title": "React Hooks 深入理解",
-      "type": "learning-note",
-      "category": "learning",
-      "tags": ["react", "hooks", "frontend"],
-      "created": "2026-01-04T10:58:15Z",
-      "modified": "2026-01-04T11:00:00Z",
-      "version": 1,
-      "filePath": "/knowledge/items/2026/01-January/2026-01-04-105815.md",
-      "links": 2,
-      "backlinks": 0,
-      "wordCount": 210
-    },
-    {
-      "id": "2026-01-04-105900",
-      "title": "函数组件最佳实践",
-      "type": "code-snippet",
-      "category": "code",
-      "tags": ["react", "functional-components", "best-practices"],
-      "created": "2026-01-04T10:59:00Z",
-      "modified": "2026-01-04T11:00:00Z",
-      "version": 1,
-      "filePath": "/knowledge/items/2026/01-January/2026-01-04-105900.md",
-      "links": 1,
-      "backlinks": 1,
-      "wordCount": 240
-    }
-  ],
+  "items": [],
   "categories": {
-    "code": { "count": 1, "description": "代码片段和技术笔记" },
+    "code": { "count": 0, "description": "代码片段和技术笔记" },
     "projects": { "count": 0, "description": "项目文档和工作记录" },
-    "learning": { "count": 4, "description": "学习和研究笔记" },
+    "learning": { "count": 0, "description": "学习和研究笔记" },
     "personal": { "count": 0, "description": "个人思考和反思" }
   }
 }

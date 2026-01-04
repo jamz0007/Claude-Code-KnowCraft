@@ -1,75 +1,43 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-04T14:30:00Z",
-
+  "lastUpdated": "2026-01-04T00:00:00Z",
   "profile": {
     "name": "用户",
     "learningStyle": "visual",
-    "expertiseLevel": "intermediate",
-    "primaryInterests": ["frontend", "react", "javascript"]
+    "expertiseLevel": "beginner",
+    "primaryInterests": []
   },
-
   "defaults": {
     "category": "learning",
-    "tags": ["frontend"],
+    "tags": [],
     "template": "learning-note",
     "searchSort": "relevance",
     "searchFormat": "short",
     "editor": "vscode"
   },
-
   "patterns": {
-    "commonTopics": [
-      {"topic": "React", "frequency": 45, "lastUsed": "2026-01-04"},
-      {"topic": "JavaScript", "frequency": 32, "lastUsed": "2026-01-03"},
-      {"topic": "TypeScript", "frequency": 18, "lastUsed": "2026-01-02"}
-    ],
-
-    "commonTags": [
-      {"tag": "react", "frequency": 50, "accuracy": 0.95},
-      {"tag": "hooks", "frequency": 28, "accuracy": 0.92},
-      {"tag": "frontend", "frequency": 45, "accuracy": 0.98},
-      {"tag": "javascript", "frequency": 35, "accuracy": 0.90}
-    ],
-
+    "commonTopics": [],
+    "commonTags": [],
     "categoryDistribution": {
-      "learning": 0.70,
-      "code": 0.20,
-      "projects": 0.08,
-      "personal": 0.02
+      "learning": 0,
+      "code": 0,
+      "projects": 0,
+      "personal": 0
     },
-
     "activeHours": {
-      "morning": 0.15,
-      "afternoon": 0.55,
-      "evening": 0.30
+      "morning": 0,
+      "afternoon": 0,
+      "evening": 0
     },
-
-    "operationPatterns": {
-      "kb-add": {"frequency": 0.35, "avgParams": {"tags": true, "category": false}},
-      "kb-search": {"frequency": 0.30, "avgParams": {"format": "short"}},
-      "kb-edit": {"frequency": 0.15, "avgParams": {}},
-      "kb-quiz": {"frequency": 0.10, "avgParams": {"difficulty": "medium"}},
-      "kb-review": {"frequency": 0.08, "avgParams": {}},
-      "kb-teach": {"frequency": 0.02, "avgParams": {"role": "teacher"}}
-    }
+    "operationPatterns": {}
   },
-
   "recommendations": {
     "enabled": true,
     "aggressiveness": "moderate",
     "showAfter": ["kb-add", "kb-search", "kb-quiz", "kb-review"],
     "maxSuggestions": 3
   },
-
-  "shortcuts": {
-    "记笔记": "--type=learning-note",
-    "代码": "--type=code-snippet",
-    "学习": "--category=learning",
-    "项目": "--category=projects",
-    "测试": "--difficulty=medium"
-  },
-
+  "shortcuts": {},
   "ui": {
     "mode": "hybrid",
     "naturalLanguage": {
@@ -80,7 +48,6 @@
     "compactMode": false,
     "showTips": true
   },
-
   "learning": {
     "preferredDifficulty": "intermediate",
     "preferredFormat": "visual",
@@ -88,17 +55,15 @@
     "reviewInterval": "auto",
     "studyTime": "afternoon"
   },
-
   "statistics": {
     "totalOperations": 0,
     "operationsByType": {},
     "lastUsed": {},
     "streak": 0
   },
-
   "privacy": {
     "saveHistory": true,
-    "analytics": true,
+    "analytics": false,
     "shareData": false
   }
 }

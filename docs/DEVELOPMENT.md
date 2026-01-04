@@ -29,8 +29,8 @@
 #### 1. Fork并克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/my-know.git
-cd my-know
+git clone https://github.com/huifer/Claude-Code-KnowCraft.git
+cd Claude-Code-KnowCraft
 ```
 
 #### 2. 创建功能分支

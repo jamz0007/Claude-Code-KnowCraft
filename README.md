@@ -7,7 +7,7 @@
 [![Stage](https://img.shields.io/badge/Stage-7_Complete-blue)]()
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 
-[![Knowledge Items](https://img.shields.io/badge/Knowledge_Items-5+-green)]()
+[![Knowledge Items](https://img.shields.io/badge/Knowledge_Items-0+-green)]()
 [![Commands](https://img.shields.io/badge/Commands-19-orange)]()
 [![AI Agents](https://img.shields.io/badge/AI_Agents-8-purple)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
@@ -81,8 +81,8 @@
 ### 安装
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/my-know.git
-cd my-know
+git clone https://github.com/huifer/Claude-Code-KnowCraft.git
+cd Claude-Code-KnowCraft
 
 # 启动 Claude Code
 claude
