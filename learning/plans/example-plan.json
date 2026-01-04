@@ -1,0 +1,117 @@
+{
+  "id": "learn-react-hooks-example",
+  "title": "React Hooks 深度学习示例",
+  "goal": "掌握 React Hooks 的核心概念和实践应用",
+  "status": "in-progress",
+  "priority": "high",
+  "created": "2026-01-04T11:45:00Z",
+  "modified": "2026-01-04T11:45:00Z",
+
+  "timing": {
+    "duration": "4 weeks",
+    "dailyGoal": "2 hours",
+    "totalHours": 56,
+    "startDate": "2026-01-04",
+    "endDate": "2026-01-28",
+    "actualHours": 0
+  },
+
+  "items": [
+    "2026-01-04-105644",
+    "2026-01-04-105815",
+    "2026-01-04-105900"
+  ],
+
+  "order": [
+    "2026-01-04-105644",
+    "2026-01-04-105815",
+    "2026-01-04-105900"
+  ],
+
+  "milestones": [
+    {
+      "week": 1,
+      "period": "2026-01-04 - 2026-01-10",
+      "goal": "掌握基础 Hooks",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "理解 useState 和 useEffect",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "学习 Hooks 规则",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "实践练习",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "period": "2026-01-11 - 2026-01-17",
+      "goal": "深入理解",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "自定义 Hooks",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "性能考虑",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "period": "2026-01-18 - 2026-01-24",
+      "goal": "实践应用",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "完成实际项目",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "period": "2026-01-25 - 2026-01-31",
+      "goal": "巩固提升",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "最佳实践总结",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "常见陷阱",
+          "completed": false
+        }
+      ]
+    }
+  ],
+
+  "progress": {
+    "totalTasks": 8,
+    "completedTasks": 0,
+    "percentage": 0,
+    "lastUpdated": "2026-01-04T11:45:00Z"
+  },
+
+  "mastery": {
+    "2026-01-04-105644": 0,
+    "2026-01-04-105815": 0,
+    "2026-01-04-105900": 0
+  },
+
+  "notes": [],
+  "nextReview": "2026-01-11"
+}

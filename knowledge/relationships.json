@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-04T11:00:00Z",
+  "nodes": [
+    {
+      "id": "2026-01-04-105644",
+      "label": "React 基础概念",
+      "group": "learning",
+      "tags": ["react", "frontend", "components"],
+      "created": "2026-01-04T10:56:44Z"
+    },
+    {
+      "id": "2026-01-04-105730",
+      "label": "JavaScript 异步编程",
+      "group": "learning",
+      "tags": ["javascript", "async", "promise"],
+      "created": "2026-01-04T10:57:30Z"
+    },
+    {
+      "id": "2026-01-04-105815",
+      "label": "React Hooks 深入理解",
+      "group": "learning",
+      "tags": ["react", "hooks", "frontend"],
+      "created": "2026-01-04T10:58:15Z"
+    },
+    {
+      "id": "2026-01-04-105900",
+      "label": "函数组件最佳实践",
+      "group": "code",
+      "tags": ["react", "functional-components", "best-practices"],
+      "created": "2026-01-04T10:59:00Z"
+    }
+  ],
+  "edges": [
+    {
+      "from": "2026-01-04-105815",
+      "to": "2026-01-04-105644",
+      "type": "references",
+      "strength": "normal",
+      "created": "2026-01-04T11:00:00Z"
+    },
+    {
+      "from": "2026-01-04-105815",
+      "to": "2026-01-04-105900",
+      "type": "builds-on",
+      "strength": "normal",
+      "created": "2026-01-04T11:00:00Z"
+    },
+    {
+      "from": "2026-01-04-105900",
+      "to": "2026-01-04-105644",
+      "type": "related",
+      "strength": "normal",
+      "created": "2026-01-04T11:00:00Z"
+    }
+  ]
+}

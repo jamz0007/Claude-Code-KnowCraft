@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "activePlans": 0,
+  "totalReviews": 0,
+  "averageQuality": 0,
+  "streak": 0,
+  "upcomingReviews": [],
+  "stats": {
+    "itemsLearned": 0,
+    "itemsMastered": 0,
+    "reviewRate": 0,
+    "avgRetention": 0
+  }
+}
