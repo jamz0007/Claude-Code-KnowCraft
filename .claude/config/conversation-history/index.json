@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-04T14:30:00Z",
+  "currentSessionId": null,
+  "activeSessions": [],
+  "statistics": {
+    "totalSessions": 0,
+    "totalTurns": 0,
+    "averageTurnsPerSession": 0,
+    "mostCommonTopics": []
+  },
+  "config": {
+    "sessionTimeout": 1800,
+    "maxHistorySessions": 100,
+    "maxTurnsPerSession": 50,
+    "cleanupInterval": 86400
+  }
+}
